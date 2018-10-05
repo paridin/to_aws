@@ -19,7 +19,7 @@ Packer is an open source tool for creating identical machine images for multiple
 Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
  [Read More.](https://www.terraform.io/intro/index.html)
 
-#### TODOS
+#### Roadmap
 - [ ] Using Packer setup the following usable environments
     - [x] Setup AMI
 
